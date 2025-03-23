@@ -69,13 +69,18 @@ To activate the Anaconda environment in VSCode, you need to select it as your Py
 
 ![Screenshot (81)](https://github.com/user-attachments/assets/3d396554-c65a-4da5-baa4-ba76eff8ec8c)
 
-### install pymongo in conda prompt
+## install pymongo in conda prompt
 
 C:\Users\sunny\workspace\mongodb-python>conda install pymongo
 
 ## pymongo
 
 https://pymongo.readthedocs.io/en/stable/tutorial.html
+
+## where is my mongodb server, database and collection ?
+
+![Screenshot (84)](https://github.com/user-attachments/assets/cb427496-b9eb-4bfd-8af9-ae572bd04cd1)
+
 
 ## run python
 
