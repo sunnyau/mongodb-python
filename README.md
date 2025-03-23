@@ -67,11 +67,16 @@ https://code.visualstudio.com/docs/python/environments
 
 To activate the Anaconda environment in VSCode, you need to select it as your Python interpreter. Open the Command Palette ( Ctrl+Shift+P ), type Python: Select Interpreter , and hit Enter. A list of available interpreters will appear. Select the one that corresponds to your Anaconda environment.
 
+![Screenshot (81)](https://github.com/user-attachments/assets/3d396554-c65a-4da5-baa4-ba76eff8ec8c)
+
 ### install pymongo in conda prompt
 
 C:\Users\sunny\workspace\mongodb-python>conda install pymongo
 
 ## pymongo
+
+![Screenshot (83)](https://github.com/user-attachments/assets/75544503-9f91-4fda-bdae-85e7dee37e25)
+
 
 https://pymongo.readthedocs.io/en/stable/tutorial.html
 
