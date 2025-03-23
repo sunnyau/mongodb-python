@@ -8,12 +8,6 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
 Open Anaconda Prompt to run `conda` command
 
-## VS Code setup for python extension
-
-https://www.youtube.com/watch?v=D2cwvpJSBX4&t=400s
-
-Go to VS Code -> Extension -> Python Microsoft ( This is a python extension for formatting etc ) 
-
 ```
 (base) C:\Users\sunny\workspace\mongodb-python>conda create --name mongodb_env
 Channels:
@@ -61,6 +55,12 @@ Executing transaction: done
 (mongodb_env) C:\Users\sunny\workspace\mongodb-python>
 ```
 
+## VS Code setup for python extension
+
+https://www.youtube.com/watch?v=D2cwvpJSBX4&t=400s
+
+Go to VS Code -> Extension -> Python Microsoft ( This is a python extension for formatting code ) 
+
 ## How to run Anaconda prompt in VS Code?
 
 https://code.visualstudio.com/docs/python/environments
@@ -75,10 +75,9 @@ C:\Users\sunny\workspace\mongodb-python>conda install pymongo
 
 ## pymongo
 
-![Screenshot (83)](https://github.com/user-attachments/assets/75544503-9f91-4fda-bdae-85e7dee37e25)
-
-
 https://pymongo.readthedocs.io/en/stable/tutorial.html
 
 ## run python
+
+![Screenshot (83)](https://github.com/user-attachments/assets/75544503-9f91-4fda-bdae-85e7dee37e25)
 
